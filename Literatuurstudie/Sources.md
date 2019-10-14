@@ -12,6 +12,7 @@
 - https://www.site24x7.com/blog/agile-principles-relate-system-administration
 - https://www.infoq.com/news/Anderson-Agile-Management-Review/
 - https://www.infoq.com/articles/lean-into-practice/
+- https://www.infoq.com/articles/agile-anti-patterns-systems-thinking/
 
 ## Customer journeys
 - https://www.infoq.com/articles/magic-customer-journeys/?itm_source=articles_about_PM&itm_medium=link&itm_campaign=PM
@@ -24,6 +25,7 @@
 - https://www.infoq.com/articles/scrum-shortcuts/
 - https://www.infoq.com/articles/interface-linear-agile/
 - https://www.infoq.com/news/2010/01/continuous-deployment-trenches/
+- https://www.simplilearn.com/what-is-critical-chain-project-management-rar68-article
 
 ## Decision making
 - https://www.infoq.com/articles/structured-conversations-mvp/

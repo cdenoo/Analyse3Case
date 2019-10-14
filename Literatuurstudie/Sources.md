@@ -7,6 +7,10 @@
 - https://www.infoq.com/articles/dave-snowden-leadership-cynefin-requirements/
 - https://www.infoq.com/articles/project-manager-agent-agile/
 - https://www.infoq.com/articles/hardware-can-be-agile/
+- http://tynerblain.com/blog/2006/01/03/foundation-series-software-process-waterfall-process-versus-incremental-process/
+- http://tynerblain.com/blog/2006/03/15/organizing-a-software-migration-project/
+- https://www.site24x7.com/blog/agile-principles-relate-system-administration
+- https://www.infoq.com/news/Anderson-Agile-Management-Review/
 
 ## Customer journeys
 - https://www.infoq.com/articles/magic-customer-journeys/?itm_source=articles_about_PM&itm_medium=link&itm_campaign=PM
@@ -18,6 +22,7 @@
 - https://www.infoq.com/articles/does-hybrid-agile-exist/
 - https://www.infoq.com/articles/scrum-shortcuts/
 - https://www.infoq.com/articles/interface-linear-agile/
+- https://www.infoq.com/news/2010/01/continuous-deployment-trenches/
 
 ## Decision making
 - https://www.infoq.com/articles/structured-conversations-mvp/

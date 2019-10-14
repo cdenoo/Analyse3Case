@@ -11,6 +11,7 @@
 - http://tynerblain.com/blog/2006/03/15/organizing-a-software-migration-project/
 - https://www.site24x7.com/blog/agile-principles-relate-system-administration
 - https://www.infoq.com/news/Anderson-Agile-Management-Review/
+- https://www.infoq.com/articles/lean-into-practice/
 
 ## Customer journeys
 - https://www.infoq.com/articles/magic-customer-journeys/?itm_source=articles_about_PM&itm_medium=link&itm_campaign=PM

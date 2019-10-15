@@ -9,3 +9,4 @@
 ## Aangeschreven bedrijven/contactpersonen
 
 - [Yoshi De Boeck](https://www.linkedin.com/in/yoshi-de-boeck-37b997a7/) / [Capgemini](https://www.linkedin.com/company/capgemini/)
+- [Peter Keymeulen] / [C.M.C]

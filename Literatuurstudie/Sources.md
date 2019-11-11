@@ -26,9 +26,13 @@
 - https://www.infoq.com/articles/interface-linear-agile/
 - https://www.infoq.com/news/2010/01/continuous-deployment-trenches/
 - https://www.simplilearn.com/what-is-critical-chain-project-management-rar68-article
+- https://www.smartsheet.com/content-center/best-practices/project-management/project-management-guide/how-choose-project-management-methodology
 
 ## Decision making
 - https://www.infoq.com/articles/structured-conversations-mvp/
 - https://www.infoq.com/articles/actionable-analytics-lean/
 - https://www.infoq.com/articles/monte-carlo-planning/
 - https://www.infoq.com/articles/planning-controlling-complex-projects-beyond-budgetting/
+
+## Tools
+- https://www.fraxion.biz/blog/off-the-shelf-vs-custom-purchasing-tools

@@ -6,3 +6,4 @@
 *	Maken jullie gebruik van tools die specifiek gemaakt zijn voor jullie bedrijf of een bepaald project die afstappen van de standaard tools?
 *	Welke vorm van project management wordt er gebruikt indien er moeilijk of zelfs helemaal niet in iteraties kan gewerkt worden?
 *	Zijn er projecten waarbij het management gedeelte overbodig is?
+* Wat zijn volgens u de grootste verschillen tussen project management bij softwareprojecten enerzijds en projecten voor systeembeheer anderzijds?

@@ -32,17 +32,24 @@
 * Wordt er binnen het bedrijf gebruik gemaakt van custom of off-the-shelf management tools?
     * Off-the-shelf pakketten met consultants voor bedrijf-specifieke uitbreidingen/aanpassingen
     * Warm water niet opnieuw uitvinden
-    
-    
-- moeilijk om met sprints te werken
-    - sprints van 3/4 weken te lang, onstabiele projecten
-    - agile is gemakkelijk aan te passen, maar irritant als vaak aangepast moet worden
 
-- opdeling
-    - standaard it afdeling
-    - frontend, backend, schermen, hardware, software
-    - wisselwerking backend - frontend
+* Wordt er een vorm van project management gebruikt indien er moeilijk of zelfs helemaal niet in iteraties kan gewerkt worden?
+   * Agile wordt altijd gebruikt
+   * Soms moeilijk om met sprints te werken; bij sommige projecten zijn sprints van 3 a 4 weken te lang
+   * Agile is gemakkelijk om aan te passen wanneer het project al begonnen is, maar wordt irritant als het vaak aangepast moet worden.
 
-- heel veel bedrijven denken dat met agile heel laat aanpassingen kunnen gedaan worden - niet waar, focus wordt verlegd omdat het theoretisch haalbaar is, analyses + overhead
-- verschil tussen domeinen is groot (bijv business en IT), minder nauwe werking dan gedacht
-- rekening houden met verschillen
+* Zijn er volgens u projecten waarbij het management gedeelte overbodig is?
+   * /
+   
+* Wat zijn volgens u de grootste verschillen tussen project management bij softwareprojecten enerzijds en projecten voor systeembeheer anderzijds?
+   * Kan geen antwoord op bieden, geen gedetailleerde informatie over projecten systeembeheer/infrastructuur
+
+* Wat zijn de opdelingen binnen het bedrijf inzake IT management?
+   * Standaard IT opdeling
+   * Frontend, backend, schermen, hardware, software
+   * Wisselwerking backend - frontend
+
+* Moest u iets kunnen veranderen aan het project management binnen het bedrijf, wat zou dit zijn?
+   * Heel veel bedrijven denken dat met agile heel laat aanpassingen kunnen gedaan worden - theoretisch gezien waar. Focus wordt verlegd omdat het theoretisch haalbaar is, maar er wordt geen rekening gehouden met analyses en administratieve overhead.
+   * Verschil tussen domeinen is groot (bv. business en IT), minder nauwe werking dan gehoopt
+   * Iets kunnen veranderen: meer rekening houden met verschillen
